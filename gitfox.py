@@ -1,1 +1,1 @@
-print("dadawd")
+print(|"sxasxas")
